@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import rospy
 from leg_tracker.msg import Person, PersonArray, Leg, LegArray
